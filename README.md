@@ -1,5 +1,5 @@
 # pipe
-
+[![Build Status](https://app.travis-ci.com/mbalves1/pipe.svg?branch=main)](https://app.travis-ci.com/mbalves1/pipe)
 ## Project setup
 ```
 npm install
